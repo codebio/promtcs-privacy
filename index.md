@@ -1,8 +1,8 @@
-# Politique de confidentialité – SmartFire
+# Politique de confidentialité – PromptCs
 
-Dernière mise à jour : 16 mai 2025
+Dernière mise à jour : 20 mai 2025
 
-SmartFire est une application développée par **codebio**, ingénieur informatique & pompier volontaire au SDIS13, dans le but de faciliter et d'accélérer l'accès aux itinéraires lors des interventions.
+PromptCs est une application développée par **codebio**, ingénieur informatique & pompier volontaire au SDIS13, dans le but de faciliter et d'accélérer l'accès aux itinéraires lors des interventions.
 
 ## Données collectées
 
@@ -10,7 +10,7 @@ L’application collecte et utilise les données suivantes :
 
 - **Localisation en temps réel (GPS)** : uniquement pour déterminer et afficher l’itinéraire vers le lieu d’intervention. Aucune collecte en arrière-plan n’est effectuée.
 - **Token d'identification et identifiant de connexion** : stockés temporairement dans le cache local de l'application pour permettre l’accès à l’API du SDIS13.
-- **Données collectées indirectement via l'API du SDIS13** : bien que non contrôlées par SmartFire, le serveur de l’API du SDIS13 peut enregistrer certaines informations comme l’adresse IP, la date de connexion et le type de navigateur/appareil utilisé.
+- **Données collectées indirectement via l'API du SDIS13** : bien que non contrôlées par PromptCs, le serveur de l’API du SDIS13 peut enregistrer certaines informations comme l’adresse IP, la date de connexion et le type de navigateur/appareil utilisé.
 
 ## Utilisation des données
 
@@ -21,13 +21,13 @@ Les données sont utilisées exclusivement pour :
 
 ## Partage des données
 
-SmartFire ne partage aucune donnée personnelle avec des tiers, à l'exception de :
+PromptCs ne partage aucune donnée personnelle avec des tiers, à l'exception de :
 
 - **Google Maps ou Waze** : la position GPS de l'intervention (latitude/longitude) est transmise uniquement pour afficher l’itinéraire dans l’application de navigation choisie par l’utilisateur.
 
 ## Sécurité
 
-Aucune donnée personnelle n’est stockée de manière permanente par l’application. Le cache contenant le token et le login est local à l’appareil et non transmis ailleurs. Aucune base de données externe n’est utilisée par SmartFire pour stocker des données utilisateurs.
+Aucune donnée personnelle n’est stockée de manière permanente par l’application. Le cache contenant le token, le login, et le centre de secours principale/secondaire est local à l’appareil et non transmis ailleurs. Aucune base de données externe n’est utilisée par PromptCs pour stocker des données utilisateurs.
 
 ## Droits des utilisateurs
 
